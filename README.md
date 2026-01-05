@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Jessica Ferreira
 
-<!--
-**jessicafaf/Jessicafaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Scientist** with a degree in *Data Science Technology*, focused on building practical, data-driven solutions using **Python** and **Machine Learning**.
 
-Here are some ideas to get you started:
+I have a strong interest in transforming data into insights, developing models, and continuously improving my skills in applied data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Core Interests
+- Data Science & Analytics  
+- Machine Learning  
+- Artificial Neural Networks  
+- Statistical Analysis  
+- Data Visualization  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **Data & ML:** Pandas, NumPy, Scikit-learn  
+- **Visualization:** Matplotlib, Seaborn  
+- **Tools:** Git, GitHub, Jupyter Notebook  
+
+---
+
+## 📂 What You'll Find Here
+- Data analysis projects  
+- Machine learning models and experiments  
+- Academic projects and hands-on studies  
+- Python notebooks and scripts  
+
+Each repository reflects my learning process and practical experience.
+
+---
+
+## 🌱 Currently Improving
+- Advanced Machine Learning techniques  
+- Model evaluation and optimization  
+- Writing cleaner, production-ready code  
+
+---
+
+## 🌍 Career Goals
+- Build a solid international-level data science portfolio  
+- Work with real-world, impactful data problems  
+- Grow as a data professional in a global tech environment  
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/jessicafaf 
+
+
+⭐ Thanks for stopping by! 
