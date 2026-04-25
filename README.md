@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jessica Ferreira
+#  Hi, I'm Jessica Ferreira
 
 I'm a **Data Scientist** with a degree in *Data Science Technology*, focused on building practical, data-driven solutions using **Python** and **Machine Learning**.
 
@@ -6,7 +6,7 @@ I have a strong interest in transforming data into insights, developing models, 
 
 ---
 
-## 🧠 Core Interests
+##  Core Interests
 - Data Science & Analytics  
 - Machine Learning  
 - Artificial Neural Networks  
@@ -15,7 +15,7 @@ I have a strong interest in transforming data into insights, developing models, 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** Python, SQL  
 - **Data & ML:** Pandas, NumPy, Scikit-learn  
 - **Visualization:** Matplotlib, Seaborn  
@@ -23,7 +23,7 @@ I have a strong interest in transforming data into insights, developing models, 
 
 ---
 
-## 📂 What You'll Find Here
+## What You'll Find Here
 - Data analysis projects  
 - Machine learning models and experiments  
 - Academic projects and hands-on studies  
@@ -33,22 +33,22 @@ Each repository reflects my learning process and practical experience.
 
 ---
 
-## 🌱 Currently Improving
+## Currently Improving
 - Advanced Machine Learning techniques  
 - Model evaluation and optimization  
 - Writing cleaner, production-ready code  
 
 ---
 
-## 🌍 Career Goals
+## Career Goals
 - Build a solid international-level data science portfolio  
 - Work with real-world, impactful data problems  
 - Grow as a data professional in a global tech environment  
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - GitHub: https://github.com/jessicafaf 
 
 
-⭐ Thanks for stopping by! 
+ Thanks for stopping by! =D
