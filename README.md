@@ -47,8 +47,4 @@ Each repository reflects my learning process and practical experience.
 
 ---
 
-## Connect with Me
-- GitHub: https://github.com/jessicafaf 
-
-
  Thanks for stopping by! =D
