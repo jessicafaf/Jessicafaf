@@ -1,50 +1,33 @@
-#  Hi, I'm Jessica Ferreira
+# Hi, I'm Jessica Ferreira 🌿
 
-I'm a **Data Scientist** with a degree in *Data Science Technology*, focused on building practical, data-driven solutions using **Python** and **Machine Learning**.
+**Data Scientist** building the **JesFer Universe** — an AI-powered Solarpunk village that manages its own energy, water, food, and infrastructure autonomously.
 
-I have a strong interest in transforming data into insights, developing models, and continuously improving my skills in applied data science.
-
----
-
-##  Core Interests
-- Data Science & Analytics  
-- Machine Learning  
-- Artificial Neural Networks  
-- Statistical Analysis  
-- Data Visualization  
+Think JARVIS, but for a sustainable future.
 
 ---
 
-## Tech Stack
-- **Languages:** Python, SQL  
-- **Data & ML:** Pandas, NumPy, Scikit-learn  
-- **Visualization:** Matplotlib, Seaborn  
-- **Tools:** Git, GitHub, Jupyter Notebook  
+## 🌱 The JesFer Universe
+
+| Project | What it does | Stack |
+|---|---|---|
+| [SolarPunk_water_AI](https://github.com/jessicafaf/SolarPunk_water_AI) | Solar forecasting + graywater recycling AI | Python · ServiceNow · Docker · REST API |
+| JesFer_Village_DB *(coming soon)* | Relational database for all village systems | MySQL · Python · Stored Procedures |
+| JesFer_Garden_AI *(coming soon)* | Computer vision for plant health & harvest prediction | TensorFlow · CNN · Python |
 
 ---
 
-## What You'll Find Here
-- Data analysis projects  
-- Machine learning models and experiments  
-- Academic projects and hands-on studies  
-- Python notebooks and scripts  
-
-Each repository reflects my learning process and practical experience.
+## 🛠 Tech Stack
+**Languages:** Python · JavaScript (ES6) · SQL
+**AI/ML:** Scikit-learn · TensorFlow/Keras · Random Forest · LSTM/RNN · CNNs
+**Infrastructure:** Docker · REST APIs · ServiceNow · Git
+**Databases:** MySQL · MongoDB · NoSQL design
 
 ---
 
-## Currently Improving
-- Advanced Machine Learning techniques  
-- Model evaluation and optimization  
-- Writing cleaner, production-ready code  
+## 🎯 Currently Building
+- `JesFer_Village_DB` — Village data infrastructure (MySQL Workbench)
+- `JesFer_Garden_AI` — Plant CV model (TensorFlow + PlantVillage dataset)
+- Upgrading SolarPunk_water_AI to full LSTM architecture
 
 ---
-
-## Career Goals
-- Build a solid international-level data science portfolio  
-- Work with real-world, impactful data problems  
-- Grow as a data professional in a global tech environment  
-
----
-
- Thanks for stopping by! =D
+📍 Chicago, IL · Open to global remote contracts · 4 languages
